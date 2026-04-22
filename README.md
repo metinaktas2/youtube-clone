@@ -24,9 +24,12 @@ This project uses the following API from RapidAPI:
 
 🎥 Demo
 
-Add your project GIF here:
 
-![Demo](./gif/project.gif)
+
+https://github.com/user-attachments/assets/a1f13d7f-7675-480a-8a6b-7e914d630996
+
+
+
 📌 Notes
 This project is built for learning purposes.
 Focuses on API integration and routing logic.
